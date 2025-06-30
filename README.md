@@ -27,5 +27,9 @@ You can open the `.ipynb` files using:
 
 ## 👨‍💻 Author
 
+
 **Muhammad Ishfaq Khan**  
-Student of BS Computer Science, UST Bannu  
+BS Computer Science - UST Bannu  
+GitHub: [@ishfaqkhan-dev](https://github.com/ishfaqkhan-dev)  
+Email: ishfaqkhan.dev@gmail.com  
+LinkedIn: https://www.linkedin.com/in/muhammad-ishfaq-khan-666b27370
