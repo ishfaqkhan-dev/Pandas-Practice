@@ -1,0 +1,32 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings folder
+.vscode/
+
+# Environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# Mac system files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python egg files
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook output files (optional)
+*.nbconvert.ipynb
